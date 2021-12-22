@@ -11,6 +11,10 @@ export const ItemTitle = styled.h2`
     
     `
 
+export const ItemSuggestion = styled.p`
+    
+`
+
 export const ItemLink = styled.a`
     margin-bottom: 10px;
 `
