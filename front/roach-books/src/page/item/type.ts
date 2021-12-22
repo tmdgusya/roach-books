@@ -1,6 +1,7 @@
 export interface ItemType {
     title: string;
-    photo: string;
     evaluation: number;
-    description: string;
+    href: string;
+    photo: string;
+    descriptions: string[];
 }
