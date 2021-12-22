@@ -9,12 +9,14 @@ import {ItemLink} from "./page/item/styled";
 import {kotlinBooks} from "./page/data/kotlin";
 import {inflearn} from "./page/data/inflearn";
 import ProfileComponent from "./page/common/ProfileComponent";
+import CustomerTracking from "./page/common/CustomerTracking";
 
 function App() {
   return (
     <MainDiv>
         <RoachBooksTitle>로치의 책방📚</RoachBooksTitle>
         <ProfileComponent/>
+        <CustomerTracking/>
         <MainCategory headLine={"공통적으로 읽어야 할 책"} database={commonBooks}/>
         <MainCategory headLine={"데이터베이스 부분 추천 책"} database={databaseBook}/>
         <MainCategory headLine={"Spring 부분 추천 책"} database={springBooks}/>
