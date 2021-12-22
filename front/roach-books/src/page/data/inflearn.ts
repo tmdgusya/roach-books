@@ -6,7 +6,7 @@ export const inflearn: ItemType[] = [{
     href: "https://www.inflearn.com/course/스프링-핵심-원리-기본편",
     suggestion: "자바는 어느정도 아는데 스프링을 배우고 싶다 하면 그냥 1순위로 추천하는 강의",
     photo: "https://user-images.githubusercontent.com/57784077/147139116-7d8bfa99-e398-4fd8-9b9c-ac2add8e5986.png",
-    descriptions: ["이 강의를 보고 스프링을 처음 시작했다.", "그리고 제가 지금 우아한 형제들에 들어갈 수 있게 만들어준 강의!", "의심하지 않고 처음강의로 추천드립니다."]
+    descriptions: ["이 강의를 보고 스프링을 처음 시작했다.", "그냥 처음 스프링을 한다면 무조건 추천하는 강의"]
 }, {
     title: "자바 ORM 표준 JPA 프로그래밍 - 기본편",
     evaluation: 3,

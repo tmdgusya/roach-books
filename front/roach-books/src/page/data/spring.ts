@@ -4,7 +4,7 @@ export const springBooks: ItemType[] = [{
     title: "토비의 스프링 1권",
     evaluation: 5,
     href: "http://m.yes24.com/goods/detail/7516911",
-    suggestion: "아키텍쳐의 발전 혹은 소프트웨어 구조를 설계하는 것을 공부해보고 싶은 사람",
+    suggestion: "스프링을 깊게 이해하고 싶은사람, 자바를 좀 잘하는 사람",
     photo: "https://user-images.githubusercontent.com/57784077/147137112-cc6f10cc-3312-4435-9dea-f191a1a115cc.png",
     descriptions: ["스프링 초보 기준으로 이해하기 어려운 부분들이 종종있다. ",
         "입문서로는 봐서는 안된다는 생각이 들고, 요즘은 인프런에 좋은 강의들이 많아서 해당 강의로 입문하는게 좋다고 생각한다. ",
