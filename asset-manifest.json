@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/roach-books/static/css/main.cd7aa48d.css",
-    "main.js": "/roach-books/static/js/main.df69724d.js",
+    "main.js": "/roach-books/static/js/main.001a6598.js",
     "index.html": "/roach-books/index.html",
     "main.cd7aa48d.css.map": "/roach-books/static/css/main.cd7aa48d.css.map",
-    "main.df69724d.js.map": "/roach-books/static/js/main.df69724d.js.map"
+    "main.001a6598.js.map": "/roach-books/static/js/main.001a6598.js.map"
   },
   "entrypoints": [
     "static/css/main.cd7aa48d.css",
-    "static/js/main.df69724d.js"
+    "static/js/main.001a6598.js"
   ]
 }
