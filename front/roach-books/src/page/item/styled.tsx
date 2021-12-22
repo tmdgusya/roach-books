@@ -8,7 +8,7 @@ export const ItemTitle = styled.h2`
     
     `
 
-export const ItemPhoto = styled.img`
+export const ItemPhoto = styled.image`
     
     `
 
