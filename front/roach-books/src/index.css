@@ -12,6 +12,11 @@ code {
     monospace;
 }
 
-p, header {
+p {
   font-family: 'Do Hyeon', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Do Hyeon', sans-serif;
+  font-weight: lighter;
 }
