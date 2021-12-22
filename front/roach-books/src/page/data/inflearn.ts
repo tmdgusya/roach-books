@@ -1,23 +1,18 @@
 import {ItemType} from "../item/type";
 
 export const inflearn: ItemType[] = [{
-    title: "토비의 스프링 1권",
-    evaluation: 5,
-    href: "http://m.yes24.com/goods/detail/7516911",
-    suggestion: "아키텍쳐의 발전 혹은 소프트웨어 구조를 설계하는 것을 공부해보고 싶은 사람",
-    photo: "https://user-images.githubusercontent.com/57784077/147137112-cc6f10cc-3312-4435-9dea-f191a1a115cc.png",
-    descriptions: ["스프링 초보 기준으로 이해하기 어려운 부분들이 종종있다. ",
-        "입문서로는 봐서는 안된다는 생각이 들고, 요즘은 인프런에 좋은 강의들이 많아서 해당 강의로 입문하는게 좋다고 생각한다. ",
-        "스프링의 동작원리가 궁금하다면, 자바를 열심히 공부한뒤(리플렉션, 어노테이션은 안다는 가정하에) 해당 책을 읽어보길 바란다.",
-        "백기선님 말로는 이해안가면 넘기고 다음에 보라고 하셨는데, 경험상 계속 이해안가면 책을 덮고, 스프링이나 자바를 조금 더 해본뒤에 다시 보는게 좋다.",
-        "나중에 다시보면 이해가 잘되는 경우가 많다."]
+    title: "스프링 핵심 원리 기본편 (김영한님)",
+    evaluation: 3,
+    href: "https://www.inflearn.com/course/스프링-핵심-원리-기본편",
+    suggestion: "자바는 어느정도 아는데 스프링을 배우고 싶다 하면 그냥 1순위로 추천하는 강의",
+    photo: "https://user-images.githubusercontent.com/57784077/147139116-7d8bfa99-e398-4fd8-9b9c-ac2add8e5986.png",
+    descriptions: ["이 강의를 보고 스프링을 처음 시작했다.", "그리고 제가 지금 우아한 형제들에 들어갈 수 있게 만들어준 강의!", "의심하지 않고 처음강의로 추천드립니다."]
 }, {
-    title: "자바 ORM 표준 JPA 프로그래밍",
-    evaluation: 4,
-    href: "http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788960777330",
-    suggestion: "위에서 추천한 책 기준 데이터 베이스 개론까지 혹은 그와 비슷한 수준의 책을 읽어본 사람.",
-    photo: "https://user-images.githubusercontent.com/57784077/147137319-7b2891e2-0500-4588-8276-2ab507a7f302.png",
-    descriptions: [" 영한님 책 답게 설명이 아주 잘되있다. 인프런 영상을 보는것도 추천하지만, 한번 본 결과로는 책이 조금 더 자세하다고 생각한다. ",
-        "영상은 조금 더 쉽게 설명한다면 책은 그것보다는 자세한 내용들을 다룬다. 그래서 둘다 사는것도 좋다고 생각한다. ",
-        "JPA 를 공부하고 싶다면 이책으로 입문한뒤, 그 이후로는 프레임워크를 천천히 열어보거나, 사용해보면서 계속 공부해야 한다고 생각한다."]
+    title: "자바 ORM 표준 JPA 프로그래밍 - 기본편",
+    evaluation: 3,
+    href: "https://www.inflearn.com/course/ORM-JPA-Basic",
+    suggestion: "언제나 말했듯이 JPA 는 기본적으로 DB 를 어느정도 알아야 하므로 개론까지는 읽거나 혹은 그에 상응하는 데이터베이스 지식을 쌓고 이강의를 듣는걸 추천",
+    photo: "https://user-images.githubusercontent.com/57784077/147139516-6433423e-bf90-43d5-9e21-555e6685f43a.png",
+    descriptions: ["믿고 사는 영한님 강의인 만큼 설명이 매우 친절하다",
+        "초보자가 이해할 수 있도록 설명하신다고는 하나 어느정도의 DB 지식은 알고 강의를 듣자. 그래야 더 잘이해간다."]
 }]

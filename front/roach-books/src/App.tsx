@@ -7,6 +7,7 @@ import {springBooks} from "./page/data/spring";
 import {javaBooks} from "./page/data/java";
 import {ItemLink} from "./page/item/styled";
 import {kotlinBooks} from "./page/data/kotlin";
+import {inflearn} from "./page/data/inflearn";
 
 function App() {
   return (
@@ -18,7 +19,8 @@ function App() {
         <MainCategory headLine={"Spring 부분 추천 책"} database={springBooks}/>
         <MainCategory headLine={"Java 부분 추천 책"} database={javaBooks}/>
         <MainCategory headLine={"Kotlin 부분 추천 책"} database={kotlinBooks}/>
-        <HeadLine>인프런 강의 평점</HeadLine>
+        <HeadLine>인프런🌱</HeadLine>
+        <MainCategory headLine={"인프런 강의 추천 (홍보없음 내돈-내산 인증가능)"} database={inflearn}/>
         <Message>오타 제보 및 책 추천은 아래 이슈에 등록해주세요!</Message>
         <ItemLink
             href={"https://github.com/tmdgusya/roach-books/issues"}

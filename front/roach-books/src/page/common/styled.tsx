@@ -1,5 +1,6 @@
 import styled from "styled-components";
-import exp from "constants";
+// @ts-ignore
+import myImag from "../../aaa.jpeg"
 
 export const RoachBooksTitle = styled.h1`
     size: 80px;
@@ -17,4 +18,5 @@ export const MainDiv = styled.div`
         display: flex;
         flex-direction: column;
         align-items: center;
+        background-image: url(${myImag})
     `
